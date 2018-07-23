@@ -1,0 +1,28 @@
+reiv_to_ab(r,v)   .....a+bi
+
+2+3i
+
+[2,3] or 
+[2]
+ 3
+
+
+
+Using library
+
+1. import math
+
+import file name
+file name. function
+
+
+or... 
+
+2. from f0710 import hello
+
+for this one, you do not need to write the file name everytime!
+
+HW#1 boundary! quiz with pong.py
+HW#2 Create 2 dots, and then make smaller one circle to reach bigger one!  
+ (constant speed, direction can change)
+

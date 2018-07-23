@@ -1,0 +1,527 @@
+Microsoft Windows [Version 10.0.17134.81]
+(c) 2018 Microsoft Corporation. All rights reserved.
+
+C:\Users\bitno>python -v
+import _frozen_importlib # frozen
+import _imp # builtin
+import sys # builtin
+import '_warnings' # <class '_frozen_importlib.BuiltinImporter'>
+import '_thread' # <class '_frozen_importlib.BuiltinImporter'>
+import '_weakref' # <class '_frozen_importlib.BuiltinImporter'>
+import '_frozen_importlib_external' # <class '_frozen_importlib.FrozenImporter'>
+import '_io' # <class '_frozen_importlib.BuiltinImporter'>
+import 'marshal' # <class '_frozen_importlib.BuiltinImporter'>
+import 'nt' # <class '_frozen_importlib.BuiltinImporter'>
+import _thread # previously loaded ('_thread')
+import '_thread' # <class '_frozen_importlib.BuiltinImporter'>
+import _weakref # previously loaded ('_weakref')
+import '_weakref' # <class '_frozen_importlib.BuiltinImporter'>
+import 'winreg' # <class '_frozen_importlib.BuiltinImporter'>
+# installing zipimport hook
+import 'zipimport' # <class '_frozen_importlib.BuiltinImporter'>
+# installed zipimport hook
+# C:\Users\bitno\Anaconda3\lib\encodings\__pycache__\__init__.cpython-36.pyc matches C:\Users\bitno\Anaconda3\lib\encodings\__init__.py
+# code object from 'C:\\Users\\bitno\\Anaconda3\\lib\\encodings\\__pycache__\\__init__.cpython-36.pyc'
+# C:\Users\bitno\Anaconda3\lib\__pycache__\codecs.cpython-36.pyc matches C:\Users\bitno\Anaconda3\lib\codecs.py
+# code object from 'C:\\Users\\bitno\\Anaconda3\\lib\\__pycache__\\codecs.cpython-36.pyc'
+import '_codecs' # <class '_frozen_importlib.BuiltinImporter'>
+import 'codecs' # <_frozen_importlib_external.SourceFileLoader object at 0x000001D2BF59B710>
+# C:\Users\bitno\Anaconda3\lib\encodings\__pycache__\aliases.cpython-36.pyc matches C:\Users\bitno\Anaconda3\lib\encodings\aliases.py
+# code object from 'C:\\Users\\bitno\\Anaconda3\\lib\\encodings\\__pycache__\\aliases.cpython-36.pyc'
+import 'encodings.aliases' # <_frozen_importlib_external.SourceFileLoader object at 0x000001D2BF6F4358>
+import 'encodings' # <_frozen_importlib_external.SourceFileLoader object at 0x000001D2BF58DD30>
+# C:\Users\bitno\Anaconda3\lib\encodings\__pycache__\utf_8.cpython-36.pyc matches C:\Users\bitno\Anaconda3\lib\encodings\utf_8.py
+# code object from 'C:\\Users\\bitno\\Anaconda3\\lib\\encodings\\__pycache__\\utf_8.cpython-36.pyc'
+import 'encodings.utf_8' # <_frozen_importlib_external.SourceFileLoader object at 0x000001D2BF7033C8>
+import '_signal' # <class '_frozen_importlib.BuiltinImporter'>
+# C:\Users\bitno\Anaconda3\lib\encodings\__pycache__\latin_1.cpython-36.pyc matches C:\Users\bitno\Anaconda3\lib\encodings\latin_1.py
+# code object from 'C:\\Users\\bitno\\Anaconda3\\lib\\encodings\\__pycache__\\latin_1.cpython-36.pyc'
+import 'encodings.latin_1' # <_frozen_importlib_external.SourceFileLoader object at 0x000001D2BF703828>
+# C:\Users\bitno\Anaconda3\lib\__pycache__\io.cpython-36.pyc matches C:\Users\bitno\Anaconda3\lib\io.py
+# code object from 'C:\\Users\\bitno\\Anaconda3\\lib\\__pycache__\\io.cpython-36.pyc'
+# C:\Users\bitno\Anaconda3\lib\__pycache__\abc.cpython-36.pyc matches C:\Users\bitno\Anaconda3\lib\abc.py
+# code object from 'C:\\Users\\bitno\\Anaconda3\\lib\\__pycache__\\abc.cpython-36.pyc'
+# C:\Users\bitno\Anaconda3\lib\__pycache__\_weakrefset.cpython-36.pyc matches C:\Users\bitno\Anaconda3\lib\_weakrefset.py
+# code object from 'C:\\Users\\bitno\\Anaconda3\\lib\\__pycache__\\_weakrefset.cpython-36.pyc'
+import '_weakrefset' # <_frozen_importlib_external.SourceFileLoader object at 0x000001D2BF70C710>
+import 'abc' # <_frozen_importlib_external.SourceFileLoader object at 0x000001D2BF703DA0>
+import 'io' # <_frozen_importlib_external.SourceFileLoader object at 0x000001D2BF7039E8>
+# C:\Users\bitno\Anaconda3\lib\__pycache__\site.cpython-36.pyc matches C:\Users\bitno\Anaconda3\lib\site.py
+# code object from 'C:\\Users\\bitno\\Anaconda3\\lib\\__pycache__\\site.cpython-36.pyc'
+# C:\Users\bitno\Anaconda3\lib\__pycache__\os.cpython-36.pyc matches C:\Users\bitno\Anaconda3\lib\os.py
+# code object from 'C:\\Users\\bitno\\Anaconda3\\lib\\__pycache__\\os.cpython-36.pyc'
+import 'errno' # <class '_frozen_importlib.BuiltinImporter'>
+# C:\Users\bitno\Anaconda3\lib\__pycache__\stat.cpython-36.pyc matches C:\Users\bitno\Anaconda3\lib\stat.py
+# code object from 'C:\\Users\\bitno\\Anaconda3\\lib\\__pycache__\\stat.cpython-36.pyc'
+import '_stat' # <class '_frozen_importlib.BuiltinImporter'>
+import 'stat' # <_frozen_importlib_external.SourceFileLoader object at 0x000001D2BF731320>
+# C:\Users\bitno\Anaconda3\lib\__pycache__\ntpath.cpython-36.pyc matches C:\Users\bitno\Anaconda3\lib\ntpath.py
+# code object from 'C:\\Users\\bitno\\Anaconda3\\lib\\__pycache__\\ntpath.cpython-36.pyc'
+# C:\Users\bitno\Anaconda3\lib\__pycache__\genericpath.cpython-36.pyc matches C:\Users\bitno\Anaconda3\lib\genericpath.py
+# code object from 'C:\\Users\\bitno\\Anaconda3\\lib\\__pycache__\\genericpath.cpython-36.pyc'
+import 'genericpath' # <_frozen_importlib_external.SourceFileLoader object at 0x000001D2BF740208>
+import 'ntpath' # <_frozen_importlib_external.SourceFileLoader object at 0x000001D2BF7319B0>
+# C:\Users\bitno\Anaconda3\lib\__pycache__\_collections_abc.cpython-36.pyc matches C:\Users\bitno\Anaconda3\lib\_collections_abc.py
+# code object from 'C:\\Users\\bitno\\Anaconda3\\lib\\__pycache__\\_collections_abc.cpython-36.pyc'
+import '_collections_abc' # <_frozen_importlib_external.SourceFileLoader object at 0x000001D2BF7407B8>
+import 'os' # <_frozen_importlib_external.SourceFileLoader object at 0x000001D2BF7212E8>
+# C:\Users\bitno\Anaconda3\lib\__pycache__\_sitebuiltins.cpython-36.pyc matches C:\Users\bitno\Anaconda3\lib\_sitebuiltins.py
+# code object from 'C:\\Users\\bitno\\Anaconda3\\lib\\__pycache__\\_sitebuiltins.cpython-36.pyc'
+import '_sitebuiltins' # <_frozen_importlib_external.SourceFileLoader object at 0x000001D2BF7216A0>
+# C:\Users\bitno\Anaconda3\lib\__pycache__\sysconfig.cpython-36.pyc matches C:\Users\bitno\Anaconda3\lib\sysconfig.py
+# code object from 'C:\\Users\\bitno\\Anaconda3\\lib\\__pycache__\\sysconfig.cpython-36.pyc'
+import 'sysconfig' # <_frozen_importlib_external.SourceFileLoader object at 0x000001D2BF721CC0>
+# C:\Users\bitno\Anaconda3\lib\__pycache__\_bootlocale.cpython-36.pyc matches C:\Users\bitno\Anaconda3\lib\_bootlocale.py
+# code object from 'C:\\Users\\bitno\\Anaconda3\\lib\\__pycache__\\_bootlocale.cpython-36.pyc'
+import '_locale' # <class '_frozen_importlib.BuiltinImporter'>
+import '_bootlocale' # <_frozen_importlib_external.SourceFileLoader object at 0x000001D2BF875FD0>
+# C:\Users\bitno\Anaconda3\lib\encodings\__pycache__\cp1252.cpython-36.pyc matches C:\Users\bitno\Anaconda3\lib\encodings\cp1252.py
+# code object from 'C:\\Users\\bitno\\Anaconda3\\lib\\encodings\\__pycache__\\cp1252.cpython-36.pyc'
+import 'encodings.cp1252' # <_frozen_importlib_external.SourceFileLoader object at 0x000001D2BF87D470>
+# C:\Users\bitno\Anaconda3\lib\__pycache__\types.cpython-36.pyc matches C:\Users\bitno\Anaconda3\lib\types.py
+# code object from 'C:\\Users\\bitno\\Anaconda3\\lib\\__pycache__\\types.cpython-36.pyc'
+# C:\Users\bitno\Anaconda3\lib\__pycache__\functools.cpython-36.pyc matches C:\Users\bitno\Anaconda3\lib\functools.py
+# code object from 'C:\\Users\\bitno\\Anaconda3\\lib\\__pycache__\\functools.cpython-36.pyc'
+import '_functools' # <class '_frozen_importlib.BuiltinImporter'>
+# C:\Users\bitno\Anaconda3\lib\collections\__pycache__\__init__.cpython-36.pyc matches C:\Users\bitno\Anaconda3\lib\collections\__init__.py
+# code object from 'C:\\Users\\bitno\\Anaconda3\\lib\\collections\\__pycache__\\__init__.cpython-36.pyc'
+# C:\Users\bitno\Anaconda3\lib\__pycache__\operator.cpython-36.pyc matches C:\Users\bitno\Anaconda3\lib\operator.py
+# code object from 'C:\\Users\\bitno\\Anaconda3\\lib\\__pycache__\\operator.cpython-36.pyc'
+import '_operator' # <class '_frozen_importlib.BuiltinImporter'>
+import 'operator' # <_frozen_importlib_external.SourceFileLoader object at 0x000001D2BF9B06D8>
+# C:\Users\bitno\Anaconda3\lib\__pycache__\keyword.cpython-36.pyc matches C:\Users\bitno\Anaconda3\lib\keyword.py
+# code object from 'C:\\Users\\bitno\\Anaconda3\\lib\\__pycache__\\keyword.cpython-36.pyc'
+import 'keyword' # <_frozen_importlib_external.SourceFileLoader object at 0x000001D2BF9B9940>
+# C:\Users\bitno\Anaconda3\lib\__pycache__\heapq.cpython-36.pyc matches C:\Users\bitno\Anaconda3\lib\heapq.py
+# code object from 'C:\\Users\\bitno\\Anaconda3\\lib\\__pycache__\\heapq.cpython-36.pyc'
+import '_heapq' # <class '_frozen_importlib.BuiltinImporter'>
+import 'heapq' # <_frozen_importlib_external.SourceFileLoader object at 0x000001D2BF9BD198>
+import 'itertools' # <class '_frozen_importlib.BuiltinImporter'>
+# C:\Users\bitno\Anaconda3\lib\__pycache__\reprlib.cpython-36.pyc matches C:\Users\bitno\Anaconda3\lib\reprlib.py
+# code object from 'C:\\Users\\bitno\\Anaconda3\\lib\\__pycache__\\reprlib.cpython-36.pyc'
+import 'reprlib' # <_frozen_importlib_external.SourceFileLoader object at 0x000001D2BF9B4D30>
+import '_collections' # <class '_frozen_importlib.BuiltinImporter'>
+import 'collections' # <_frozen_importlib_external.SourceFileLoader object at 0x000001D2BF992E10>
+# C:\Users\bitno\Anaconda3\lib\__pycache__\weakref.cpython-36.pyc matches C:\Users\bitno\Anaconda3\lib\weakref.py
+# code object from 'C:\\Users\\bitno\\Anaconda3\\lib\\__pycache__\\weakref.cpython-36.pyc'
+import 'weakref' # <_frozen_importlib_external.SourceFileLoader object at 0x000001D2BF999240>
+import 'functools' # <_frozen_importlib_external.SourceFileLoader object at 0x000001D2BF8845F8>
+# C:\Users\bitno\Anaconda3\lib\collections\__pycache__\abc.cpython-36.pyc matches C:\Users\bitno\Anaconda3\lib\collections\abc.py
+# code object from 'C:\\Users\\bitno\\Anaconda3\\lib\\collections\\__pycache__\\abc.cpython-36.pyc'
+import 'collections.abc' # <_frozen_importlib_external.SourceFileLoader object at 0x000001D2BF889390>
+import 'types' # <_frozen_importlib_external.SourceFileLoader object at 0x000001D2BF87D898>
+# C:\Users\bitno\Anaconda3\lib\importlib\__pycache__\__init__.cpython-36.pyc matches C:\Users\bitno\Anaconda3\lib\importlib\__init__.py
+# code object from 'C:\\Users\\bitno\\Anaconda3\\lib\\importlib\\__pycache__\\__init__.cpython-36.pyc'
+# C:\Users\bitno\Anaconda3\lib\__pycache__\warnings.cpython-36.pyc matches C:\Users\bitno\Anaconda3\lib\warnings.py
+# code object from 'C:\\Users\\bitno\\Anaconda3\\lib\\__pycache__\\warnings.cpython-36.pyc'
+import 'warnings' # <_frozen_importlib_external.SourceFileLoader object at 0x000001D2BF8896A0>
+import 'importlib' # <_frozen_importlib_external.SourceFileLoader object at 0x000001D2BF87DB38>
+# C:\Users\bitno\Anaconda3\lib\importlib\__pycache__\util.cpython-36.pyc matches C:\Users\bitno\Anaconda3\lib\importlib\util.py
+# code object from 'C:\\Users\\bitno\\Anaconda3\\lib\\importlib\\__pycache__\\util.cpython-36.pyc'
+# C:\Users\bitno\Anaconda3\lib\importlib\__pycache__\abc.cpython-36.pyc matches C:\Users\bitno\Anaconda3\lib\importlib\abc.py
+# code object from 'C:\\Users\\bitno\\Anaconda3\\lib\\importlib\\__pycache__\\abc.cpython-36.pyc'
+# C:\Users\bitno\Anaconda3\lib\importlib\__pycache__\machinery.cpython-36.pyc matches C:\Users\bitno\Anaconda3\lib\importlib\machinery.py
+# code object from 'C:\\Users\\bitno\\Anaconda3\\lib\\importlib\\__pycache__\\machinery.cpython-36.pyc'
+import 'importlib.machinery' # <_frozen_importlib_external.SourceFileLoader object at 0x000001D2BF9F4B38>
+import 'importlib.abc' # <_frozen_importlib_external.SourceFileLoader object at 0x000001D2BF9F4470>
+# C:\Users\bitno\Anaconda3\lib\__pycache__\contextlib.cpython-36.pyc matches C:\Users\bitno\Anaconda3\lib\contextlib.py
+# code object from 'C:\\Users\\bitno\\Anaconda3\\lib\\__pycache__\\contextlib.cpython-36.pyc'
+import 'contextlib' # <_frozen_importlib_external.SourceFileLoader object at 0x000001D2BF9FD588>
+import 'importlib.util' # <_frozen_importlib_external.SourceFileLoader object at 0x000001D2BF9E3F60>
+# possible namespace for C:\Users\bitno\Anaconda3\lib\site-packages\mpl_toolkits
+import 'site' # <_frozen_importlib_external.SourceFileLoader object at 0x000001D2BF710F60>
+Python 3.6.4 |Anaconda, Inc.| (default, Jan 16 2018, 10:22:32) [MSC v.1900 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+import 'atexit' # <class '_frozen_importlib.BuiltinImporter'>
+>>> exit()
+# clear builtins._
+# clear sys.path
+# clear sys.argv
+# clear sys.ps1
+# clear sys.ps2
+# clear sys.last_type
+# clear sys.last_value
+# clear sys.last_traceback
+# clear sys.path_hooks
+# clear sys.path_importer_cache
+# clear sys.meta_path
+# clear sys.__interactivehook__
+# clear sys.flags
+# clear sys.float_info
+# restore sys.stdin
+# restore sys.stdout
+# restore sys.stderr
+# cleanup[2] removing builtins
+# cleanup[2] removing sys
+# cleanup[2] removing _frozen_importlib
+# cleanup[2] removing _imp
+# cleanup[2] removing _warnings
+# cleanup[2] removing _thread
+# cleanup[2] removing _weakref
+# cleanup[2] removing _frozen_importlib_external
+# cleanup[2] removing _io
+# cleanup[2] removing marshal
+# cleanup[2] removing nt
+# cleanup[2] removing winreg
+# cleanup[2] removing zipimport
+# cleanup[2] removing encodings
+# destroy encodings
+# cleanup[2] removing codecs
+# cleanup[2] removing _codecs
+# cleanup[2] removing encodings.aliases
+# cleanup[2] removing encodings.utf_8
+# cleanup[2] removing _signal
+# cleanup[2] removing __main__
+# destroy __main__
+# cleanup[2] removing encodings.latin_1
+# cleanup[2] removing io
+# destroy io
+# cleanup[2] removing abc
+# cleanup[2] removing _weakrefset
+# destroy _weakrefset
+# cleanup[2] removing site
+# destroy site
+# cleanup[2] removing os
+# cleanup[2] removing errno
+# cleanup[2] removing stat
+# cleanup[2] removing _stat
+# cleanup[2] removing ntpath
+# cleanup[2] removing genericpath
+# cleanup[2] removing os.path
+# cleanup[2] removing _collections_abc
+# cleanup[2] removing _sitebuiltins
+# cleanup[2] removing sysconfig
+# destroy sysconfig
+# cleanup[2] removing _bootlocale
+# destroy _bootlocale
+# cleanup[2] removing _locale
+# cleanup[2] removing encodings.cp1252
+# cleanup[2] removing types
+# cleanup[2] removing functools
+# cleanup[2] removing _functools
+# cleanup[2] removing collections
+# cleanup[2] removing operator
+# destroy operator
+# cleanup[2] removing _operator
+# cleanup[2] removing keyword
+# destroy keyword
+# cleanup[2] removing heapq
+# cleanup[2] removing _heapq
+# cleanup[2] removing itertools
+# cleanup[2] removing reprlib
+# destroy reprlib
+# cleanup[2] removing _collections
+# cleanup[2] removing weakref
+# destroy weakref
+# cleanup[2] removing collections.abc
+# cleanup[2] removing importlib
+# destroy importlib
+# cleanup[2] removing importlib._bootstrap
+# cleanup[2] removing importlib._bootstrap_external
+# cleanup[2] removing warnings
+# cleanup[2] removing importlib.util
+# cleanup[2] removing importlib.abc
+# cleanup[2] removing importlib.machinery
+# cleanup[2] removing contextlib
+# destroy contextlib
+# cleanup[2] removing mpl_toolkits
+# destroy mpl_toolkits
+# cleanup[2] removing sphinxcontrib
+# destroy sphinxcontrib
+# cleanup[2] removing atexit
+# destroy zipimport
+# destroy _signal
+# destroy _sitebuiltins
+# destroy errno
+# destroy ntpath
+# destroy _stat
+# destroy genericpath
+# destroy stat
+# destroy os
+# destroy _locale
+# destroy _functools
+# destroy heapq
+# destroy collections.abc
+# destroy atexit
+# destroy _operator
+# destroy _heapq
+# destroy _collections
+# destroy collections
+# destroy itertools
+# destroy importlib.util
+# destroy importlib.abc
+# destroy functools
+# destroy types
+# destroy warnings
+# destroy importlib.machinery
+# destroy abc
+# destroy _collections_abc
+# cleanup[3] wiping _frozen_importlib
+# destroy _frozen_importlib_external
+# cleanup[3] wiping _imp
+# cleanup[3] wiping _warnings
+# cleanup[3] wiping _thread
+# cleanup[3] wiping _weakref
+# cleanup[3] wiping _io
+# cleanup[3] wiping marshal
+# cleanup[3] wiping nt
+# cleanup[3] wiping winreg
+# cleanup[3] wiping codecs
+# cleanup[3] wiping _codecs
+# cleanup[3] wiping encodings.aliases
+# cleanup[3] wiping encodings.utf_8
+# cleanup[3] wiping encodings.latin_1
+# cleanup[3] wiping encodings.cp1252
+# cleanup[3] wiping importlib._bootstrap
+# cleanup[3] wiping sys
+# cleanup[3] wiping builtins
+
+C:\Users\bitno>python
+Python 3.6.4 |Anaconda, Inc.| (default, Jan 16 2018, 10:22:32) [MSC v.1900 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> exit()
+
+C:\Users\bitno>dir
+ Volume in drive C is Windows
+ Volume Serial Number is B013-4305
+
+ Directory of C:\Users\bitno
+
+2018-06-05  10:14    <DIR>          .
+2018-06-05  10:14    <DIR>          ..
+2018-04-26  16:09    <DIR>          .anaconda
+2018-04-26  16:16    <DIR>          .conda
+2018-04-26  16:10                43 .condarc
+2018-04-26  16:12    <DIR>          .ipython
+2018-04-26  16:12    <DIR>          .matplotlib
+2018-04-26  16:16    <DIR>          .spyder-py3
+2018-04-26  15:51    <DIR>          .vscode
+2018-06-05  10:14    <DIR>          3D Objects
+2018-04-26  15:50    <DIR>          Anaconda3
+2018-06-05  10:14    <DIR>          Contacts
+2018-06-07  16:40    <DIR>          Desktop
+2018-06-05  10:14    <DIR>          Documents
+2018-06-12  18:08    <DIR>          Downloads
+2018-06-05  10:14    <DIR>          Favorites
+2018-03-19  13:20             2 693 Install Notes.txt
+2018-06-05  10:14    <DIR>          Links
+2018-06-05  10:14    <DIR>          Music
+2018-06-12  18:08    <DIR>          OneDrive
+2018-06-05  10:14    <DIR>          Pictures
+2018-03-19  11:36    <DIR>          Rosetta Stone Japanese
+2018-03-16  14:27    <DIR>          Rosetta Stone TOTALe - v5.0.37 Build 43113 + Language Packs + Audio Companion
+2018-06-05  10:14    <DIR>          Saved Games
+2018-06-05  10:14    <DIR>          Searches
+2018-03-16  11:11       101 101 256 Setup.exe
+2018-06-05  10:14    <DIR>          Videos
+               3 File(s)    101 103 992 bytes
+              24 Dir(s)   2 574 639 104 bytes free
+
+C:\Users\bitno>cd Desktop
+
+C:\Users\bitno\Desktop>cd ..
+
+C:\Users\bitno>mkdir python
+
+C:\Users\bitno>cd python
+
+C:\Users\bitno\python>cd ..
+
+C:\Users\bitno>rmdir python
+
+C:\Users\bitno>cd python
+The system cannot find the path specified.
+
+C:\Users\bitno>mkdir python
+
+C:\Users\bitno>cd python
+
+C:\Users\bitno\python>dir
+ Volume in drive C is Windows
+ Volume Serial Number is B013-4305
+
+ Directory of C:\Users\bitno\python
+
+2018-06-12  18:19    <DIR>          .
+2018-06-12  18:19    <DIR>          ..
+2018-06-12  18:19                21 cs101.py
+2018-06-12  18:18                21 cs101.txt
+               2 File(s)             42 bytes
+               2 Dir(s)   2 723 426 304 bytes free
+
+C:\Users\bitno\python>python cs101.py
+Hello world!
+
+C:\Users\bitno\python>python cs101wNote.py
+Hello world!
+
+C:\Users\bitno\python>python
+Python 3.6.4 |Anaconda, Inc.| (default, Jan 16 2018, 10:22:32) [MSC v.1900 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 1+1
+2
+>>> print("Hello World!")
+Hello World!
+>>> Print("This is the first class for Python")
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'Print' is not defined
+>>> Print("the first question is, what is the definition of Computer?")
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'Print' is not defined
+>>> Print("This is the first class for Python")
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'Print' is not defined
+>>> print("This is the first class for Python")
+This is the first class for Python
+>>> print("the first question is, what is the definition of Computer?")
+the first question is, what is the definition of Computer?
+>>> exit()
+
+C:\Users\bitno\python>python 0612practice1.py
+This is the first class for Python
+the first question is, what is the definition of Computer?
+
+C:\Users\bitno\python>python
+Python 3.6.4 |Anaconda, Inc.| (default, Jan 16 2018, 10:22:32) [MSC v.1900 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> x="Hello World!"
+>>> print(x)
+Hello World!
+>>> print(y)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'y' is not defined
+>>> print(x)...print(x)...print(x)
+  File "<stdin>", line 1
+    print(x)...print(x)...print(x)
+              ^
+SyntaxError: invalid syntax
+>>> x
+'Hello World!'
+>>> y='Hello World!'
+>>> print(y)
+Hello World!
+>>> y
+'Hello World!'
+>>> "ab"+"cd"
+'abcd'
+>>> 2==2
+True
+>>> 2==4
+False
+>>> z+=3
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'z' is not defined
+>>> z=0
+>>> z+=3
+>>> z
+3
+>>> exit()
+
+C:\Users\bitno\python>python ass1.py
+  File "ass1.py", line 17
+    print(x+=x)
+            ^
+SyntaxError: invalid syntax
+
+C:\Users\bitno\python>pyton ass1.py
+'pyton' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\bitno\python>python ass1.py
+x is 10324
+x+x is
+20648
+x-257 is
+10067
+x*x is
+106584976
+x/x is
+1.0
+x%37 is
+1
+x is 10324, this time let's use assignment
+x+x is
+x-257 is
+x*x is
+x/x is
+x%37 is
+
+C:\Users\bitno\python>python ass1.py
+x is 10324
+x+x is
+20648
+x-257 is
+10067
+x*x is
+106584976
+x/x is
+1.0
+x%37 is
+1
+x is 10324, this time let's use assignment
+x+x is
+20648
+x-257 is
+20391
+x*x is
+415792881
+x/x is
+1.0
+x%37 is
+1.0
+
+C:\Users\bitno\python>python ass1.py
+x is 10324
+x+x is 20648
+20648
+x-257 is
+10067
+x*x is
+106584976
+x/x is
+1.0
+x%37 is
+1
+x is 10324, this time let's use assignment
+x+x is
+20648
+x-257 is
+20391
+x*x is
+415792881
+x/x is
+1.0
+x%37 is
+1.0
+
+C:\Users\bitno\python>python ass1.py
+x is 10324
+x+x is 20648
+x-257 is 10067
+x*x is 106584976
+x/x is 1.0
+x%37 is 1
+x is 10324, this time let's use assignment
+x+x is
+20648
+x-257 is
+20391
+x*x is
+415792881
+x/x is
+1.0
+x%37 is
+1.0
+
+C:\Users\bitno\python>python ass1.py
+  File "ass1.py", line 30
+    print(x%=37)
+            ^
+SyntaxError: invalid syntax
+
+C:\Users\bitno\python>

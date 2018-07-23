@@ -1,0 +1,3 @@
+import f0710
+
+f0710.hello()

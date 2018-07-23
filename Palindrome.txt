@@ -1,0 +1,25 @@
+def checkPalindrome(inputString):
+    length=len(inputString)
+    if length==1:
+        return True
+    
+    else:
+        for i in range(0, int(round(length/2))):
+            if inputString[i]!=inputString[length-i-1]:
+                return False
+        return True
+
+
+
+def checkPalindrome(inputString):
+    length=len(inputString)
+    if length==1:
+        return True
+    
+    else:
+        for i in range(0, int(round(length/2))): # round??? ???? float??? int? ???
+            if inputString[i]!=inputString[length-i-1]: # length? ?????, length-i?? 1??? index? ?
+                return False # ??? ??? ?? ????? ???? ???? ??? palindrome? ??
+        return True # ???? ?????? palindrome? ??
+
+print("result:", checkPalindrome("abbaa"))

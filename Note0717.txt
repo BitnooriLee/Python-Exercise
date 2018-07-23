@@ -1,0 +1,16 @@
+Loop:
+    update()
+    render()
+
+
+
+
+Cartesian to Polar
+
+Function? We could test seperately!
+
+
+
+HW
+rotating circle
+1. Calculate the angle between two circles!

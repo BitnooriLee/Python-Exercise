@@ -1,0 +1,130 @@
+print("Hello world!")
+
+What is a computer? definition
+
+1.Arithmetic  1+1=2
+2.Logic 
+
+Turing-Complete 
+Turing Machine
+
+Using a machine as its full capacity???
+
+
+
+Function
+
+in -----function----- out 
+(text)                (writes in terminal)
+
+  .py > translator > console > screen 
+
+black boxes 
+With Library, you don't need to understand(not necessory), you can use it! (extend...customize)
+
+
+Data type
+
+"Hello world!" data type: string 
+4:integer
+4.7: float, double
+
+Hello world!??? you have to tell this is string!! it's about Syntax
+
+
+Script vs Console
+
+Script
+Code in a file 
+
+Console 
+interface human and computer
+
+Interpreter
+(To open this, just type python in the console... to exit, type exit(), once it open you could see >>>)
+or without saving code in the file, you can just input the code directly to interpreter!
+
+Python
+
+readable languge cause you can easily understand the other's code.
+but very slow...
+
+
+Java Script
+
+functional programming 
+
+x="Hello World" 
+print(x)
+
+in order to memorize, what the computer print..
+
+Variable 	        	Value
+----------------------------------------------
+x 	        	      	"Hello World" 
+y				3
+name				3.7
+				[3,4,10]
+
+letter without "" 		True, False
+
+
+
+"" vs ''
+'Simon says, "Jump!"'
+
+Operation 
+
+2+2 
++ is opertator
+x=4, = is assignment operator
+
+arithmetic 
+
++ addition 
+- substraction
+* mutiplication
+/ divition
+% modulus
+
+you could add strings
+
+
+logic
+
+2==2 True
+2==3 False
+>=
+<=
+>
+<
+!=
+
+Assignment
+=
++=	equal to 
+x=x+3   equal to x+=3 ( take x, add 3 and save to x)
+-=
+/=
+*=
+
+
+
+Recommand to study, nand2tetris!
+
+Exercise
+x=10324
+
+calculate 
+x+x
+x-257
+x*x
+x%37
+and print answers 
+to cosole
+
+
+
+Convert Second to Hour:minutes??
+
+

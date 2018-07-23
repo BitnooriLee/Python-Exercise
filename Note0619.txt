@@ -1,0 +1,138 @@
+create connection neuron.. 
+
+practice, old exam 
+
+motivated..hangout with others like hackerspace. 
+
+intimidate? specific?
+
+CFR? 
+
+
+
+
+
+
+Control of "flow"
+-Structure 
+Linear vs Loop 
+
+If-elif-else
+
+loops:
+-while
+-for
+
+???
+     if x>=0: (block)
+	y=x 
+ 
+	else: 
+	y=-x
+
+Block: A collection of instructions 
+
+
+~~~~~~~~~~~~~~~~:
+4spaces~~~~~~~~~~ Block
+       ~~~~~~~~~~
+       ~~~~~~~~~~
+       ~~~~~~~~~~    
+~~~~~~~~~~ Not Block 
+~~~~~~~~~~
+~~~~~~~~~~
+~~~~~~~~~~
+
+
+
+Ctrl + S : Save
+
+Ctrl + C : Cancel 
+
+For(int i=0; i>=10, i++) ----> other languages
+
+Python
+
+for i in range (1,11):
+    print(i)
+
+
+
+for i in range (1,11,2):
+    print(i)
+
+
+Built in function's always faster than hand made one!
+
+Fibonacci!!
+
+a_n=0
+a_nplus1=1
+a_nplus2=1
+
+while(a_nplus2<100):
+    print(a_nplus2)
+    a_nplus2=a_nplus1+a_n
+    a_n=a_nplus1
+    a_nplus1=a_nplus2
+
+
+
+
+a_n=0
+a_nplus1=1
+a_nplus2=1
+
+while(a_nplus2<100):
+    print(a_nplus2)
+    a_nplus2=a_nplus1+a_n
+    a_nplus1=a_nplus2
+    a_n=a_nplus1
+    
+not works!!
+
+
+Defining Function
+
+def func():
+    print("Hi")
+
+
+abs(x)
+cos,sin...
+
+Call Function
+
+func() Could be anything! a(), some_name(), hi4()
+
+
+
+def func(): there is no input here!
+
+def abc(x):
+    if x>=0:
+    return x 
+    else:
+    return -x
+
+We want to catch output value!
+abs(-3)
+
+y=abs(-3)
+f(x)=|x|
+y=f(-3)
+
+mathmatical function and programming funtion are different!
+
+print(abs(-3))
+argument is abs(-3)
+
+print(y)
+
+
+
+
+
+
+
+
