@@ -1,1 +1,1 @@
-# Python-Exercise
+# Python-Exercise Every Tuesday w Sebastian
